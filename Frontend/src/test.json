@@ -1,0 +1,565 @@
+{"?xml":{"@version":"1.0","@encoding":"utf-8"},"DeviceSearchResult":{"@xmlns:xsd":"http://www.w3.org/2001/XMLSchema","@xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance","@xmlns":"http://www.air-watch.com/servicemodel/resources","Page":"0","PageSize":"500","Total":"10","Devices":[{"@xsi:type":"DeviceExtended","Id":{"@xmlns":"","#text":"14"},"Uuid":{"@xmlns":"","#text":"c7c006a7-d38c-4596-aec9-73aed5840d47"},"Udid":"2023aa4222daf1e44dd53afb8007237d","SerialNumber":"T009300D02","MacAddress":"E89120B791FB","Imei":"355482060138915","AssetNumber":"2023aa4222daf1e44dd53afb8007237d","DeviceFriendlyName":"tecnicosdecalle Android 6.0.0 0D02 355482060138915","LocationGroupId":{"@uuid":"d412edec-785a-463b-816a-1c26bdb93561","@title":"Grupo de dispositivos para técnicos de calle AR","#text":"575"},"LocationGroupName":"Grupo de dispositivos para técnicos de calle AR","User":{"@uuid":"15256d11-2159-41e8-87c1-9c2439055b8b","@title":"Tecnicos De Calle","#text":"2"},"UserName":"tecnicosdecalle","DataProtectionStatus":"0","UserEmailAddress":"tecnicosdecalle@cablevision.com.ar","Ownership":"C","PlatformId":{"@title":"Android","#text":"5"},"Platform":"Android","ModelId":{"@title":"motorola MotoE2(4G-LTE)","#text":"5"},"Model":"motorola MotoE2(4G-LTE)","OperatingSystem":"6.0.0","PhoneNumber":null,"LastSeen":"2021-03-16T18:39:10.637","EnrollmentStatus":"Enrolled","ComplianceStatus":"Compliant","CompromisedStatus":"false","LastEnrolledOn":"2017-03-02T15:13:11.53","LastComplianceCheckOn":"0001-01-01T00:00:00","LastCompromisedCheckOn":"2021-03-16T18:39:09.217","IsSupervised":"false","DeviceMCC":{"SIMMCC":"0","CurrentMCC":"0"},"VirtualMemory":"0","DeviceCapacity":{"@xsi:nil":"true"},"AvailableDeviceCapacity":{"@xsi:nil":"true"},"LastSystemSampleTime":{"@xsi:nil":"true"},"IsDeviceDNDEnabled":"false","IsDeviceLocatorEnabled":"false","IsCloudBackupEnabled":"false","IsActivationLockEnabled":"false","IsNetworkTethered":"false","BatteryLevel":null,"IsRoaming":"false","LastNetworkLANSampleTime":{"@xsi:nil":"true"},"LastBluetoothSampleTime":{"@xsi:nil":"true"},"SystemIntegrityProtectionEnabled":"false","ProcessorArchitecture":"0","UserApprovedEnrollment":{"@xsi:nil":"true"},"EnrolledViaDEP":{"@xsi:nil":"true"},"TotalPhysicalMemory":"0","AvailablePhysicalMemory":"0","SecurityPatchDate":{"@xsi:nil":"true"},"SystemUpdateReceivedTime":{"@xsi:nil":"true"},"IsSecurityPatchUpdate":{"@xsi:nil":"true"},"DeviceManufacturerId":{"@xsi:nil":"true"},"EasIds":null},{"@xsi:type":"DeviceExtended","Id":{"@xmlns":"","#text":"259"},"Uuid":{"@xmlns":"","#text":"f2d465f0-0898-43b4-b078-3b7b9650d491"},"Udid":"7917423938db70cdc731732e7fc756d6","SerialNumber":"R28K702GDGN","MacAddress":"48C796E7BAA2","Imei":"356552098763782","AssetNumber":"7917423938db70cdc731732e7fc756d6","DeviceFriendlyName":"enroll Android 9.0.0 GDGN 356552098763782","LocationGroupId":{"@uuid":"d412edec-785a-463b-816a-1c26bdb93561","@title":"Grupo de dispositivos para técnicos de calle AR","#text":"575"},"LocationGroupName":"Grupo de dispositivos para técnicos de calle AR","User":{"@uuid":"464a2ecd-fba4-4c85-ab37-56a31966ef71","@title":"Usuario  Enroll","#text":"7"},"UserName":"enroll","DataProtectionStatus":"0","UserEmailAddress":"malfano@cablevision.com.ar","Ownership":"C","PlatformId":{"@title":"Android","#text":"5"},"Platform":"Android","ModelId":{"@title":"samsung SM-A605GN","#text":"5"},"Model":"samsung SM-A605GN","OperatingSystem":"9.0.0","PhoneNumber":null,"LastSeen":"2021-05-14T14:12:41.347","EnrollmentStatus":"Enrolled","ComplianceStatus":"Compliant","CompromisedStatus":"false","LastEnrolledOn":"2020-05-12T17:06:21.513","LastComplianceCheckOn":"0001-01-01T00:00:00","LastCompromisedCheckOn":"2021-04-13T19:27:08.643","IsSupervised":"false","DeviceMCC":{"SIMMCC":"722","CurrentMCC":"722"},"VirtualMemory":"0","DeviceCapacity":{"@xsi:nil":"true"},"AvailableDeviceCapacity":{"@xsi:nil":"true"},"LastSystemSampleTime":{"@xsi:nil":"true"},"IsDeviceDNDEnabled":"false","IsDeviceLocatorEnabled":"false","IsCloudBackupEnabled":"false","IsActivationLockEnabled":"false","IsNetworkTethered":"false","BatteryLevel":null,"IsRoaming":"false","LastNetworkLANSampleTime":{"@xsi:nil":"true"},"LastBluetoothSampleTime":{"@xsi:nil":"true"},"SystemIntegrityProtectionEnabled":"false","ProcessorArchitecture":"0","UserApprovedEnrollment":{"@xsi:nil":"true"},"EnrolledViaDEP":{"@xsi:nil":"true"},"TotalPhysicalMemory":"0","AvailablePhysicalMemory":"0","SecurityPatchDate":{"@xsi:nil":"true"},"SystemUpdateReceivedTime":{"@xsi:nil":"true"},"IsSecurityPatchUpdate":{"@xsi:nil":"true"},"DeviceManufacturerId":{"@xsi:nil":"true"},"EasIds":null},{"@xsi:type":"DeviceExtended","Id":{"@xmlns":"","#text":"262"},"Uuid":{"@xmlns":"","#text":"d920b5b8-3c5e-4e82-b1ec-8eb2f84fc212"},"Udid":"bae849fa6cdd39cadeb33055fcbdc160","SerialNumber":"R28K41XGPDK","MacAddress":"306A85B237C6","Imei":"355045090607785","AssetNumber":"bae849fa6cdd39cadeb33055fcbdc160","DeviceFriendlyName":"u580408 Android 9.0.0 GPDK 355045090607785","LocationGroupId":{"@uuid":"d412edec-785a-463b-816a-1c26bdb93561","@title":"Grupo de dispositivos para técnicos de calle AR","#text":"575"},"LocationGroupName":"Grupo de dispositivos para técnicos de calle AR","User":{"@uuid":"101a69f7-8cb5-412f-b73e-531cd01582c8","@title":"Alejandro J Perazo","#text":"38"},"UserName":"u580408","DataProtectionStatus":"0","UserEmailAddress":"ajperazo@teco.com.ar","Ownership":"C","PlatformId":{"@title":"Android","#text":"5"},"Platform":"Android","ModelId":{"@title":"samsung SM-A530F","#text":"5"},"Model":"samsung SM-A530F","OperatingSystem":"9.0.0","PhoneNumber":null,"LastSeen":"2021-05-01T13:47:22.337","EnrollmentStatus":"Enrolled","ComplianceStatus":"Compliant","CompromisedStatus":"false","LastEnrolledOn":"2020-06-08T19:11:39.41","LastComplianceCheckOn":"0001-01-01T00:00:00","LastCompromisedCheckOn":"2021-05-01T13:47:06.087","IsSupervised":"false","DeviceMCC":{"SIMMCC":"0","CurrentMCC":"722"},"VirtualMemory":"0","DeviceCapacity":{"@xsi:nil":"true"},"AvailableDeviceCapacity":{"@xsi:nil":"true"},"LastSystemSampleTime":{"@xsi:nil":"true"},"IsDeviceDNDEnabled":"false","IsDeviceLocatorEnabled":"false","IsCloudBackupEnabled":"false","IsActivationLockEnabled":"false","IsNetworkTethered":"false","BatteryLevel":null,"IsRoaming":"false","LastNetworkLANSampleTime":{"@xsi:nil":"true"},"LastBluetoothSampleTime":{"@xsi:nil":"true"},"SystemIntegrityProtectionEnabled":"false","ProcessorArchitecture":"0","UserApprovedEnrollment":{"@xsi:nil":"true"},"EnrolledViaDEP":{"@xsi:nil":"true"},"TotalPhysicalMemory":"0","AvailablePhysicalMemory":"0","SecurityPatchDate":{"@xsi:nil":"true"},"SystemUpdateReceivedTime":{"@xsi:nil":"true"},"IsSecurityPatchUpdate":{"@xsi:nil":"true"},"DeviceManufacturerId":{"@xsi:nil":"true"},"EasIds":null},{"@xsi:type":"DeviceExtended","Id":{"@xmlns":"","#text":"269"},"Uuid":{"@xmlns":"","#text":"ffb21347-073a-42f6-8bd3-7f58974f44e5"},"Udid":"92E3CDCAD53D1E44B92EA114AD5366B8","SerialNumber":"VMware-42 1d 10 de e8 9c 39 e1-22 eb cf 2a b7 2e b4 62","MacAddress":"0050569D75E1","Imei":null,"AssetNumber":null,"DeviceFriendlyName":"stagingTelecomsa Windows Desktop 10.0.17763 4 62 ","LocationGroupId":{"@uuid":"5e9582eb-cc9f-4061-8aa3-7493209e5f4f","@title":"Telecom S.A.","#text":"623"},"LocationGroupName":"Telecom S.A.","User":{"@title":""},"UserName":null,"DataProtectionStatus":"0","UserEmailAddress":null,"Ownership":"C","PlatformId":{"@title":"WinRT","#text":"12"},"Platform":"WinRT","ModelId":{"@title":"VMware Virtual Platform","#text":"83"},"Model":"VMware Virtual Platform","OperatingSystem":"10.0.17763","PhoneNumber":null,"LastSeen":"2020-12-28T13:55:26.357","EnrollmentStatus":"Unenrolled","ComplianceStatus":"NotAvailable","CompromisedStatus":"false","LastEnrolledOn":"0001-01-01T00:00:00","LastComplianceCheckOn":"0001-01-01T00:00:00","LastCompromisedCheckOn":"0001-01-01T00:00:00","IsSupervised":"false","DeviceMCC":{"SIMMCC":null,"CurrentMCC":null},"VirtualMemory":"0","DeviceCapacity":{"@xsi:nil":"true"},"AvailableDeviceCapacity":{"@xsi:nil":"true"},"LastSystemSampleTime":{"@xsi:nil":"true"},"IsDeviceDNDEnabled":"false","IsDeviceLocatorEnabled":"false","IsCloudBackupEnabled":"false","IsActivationLockEnabled":"false","IsNetworkTethered":"false","BatteryLevel":null,"IsRoaming":"false","LastNetworkLANSampleTime":{"@xsi:nil":"true"},"LastBluetoothSampleTime":{"@xsi:nil":"true"},"SystemIntegrityProtectionEnabled":"false","ProcessorArchitecture":"9","UserApprovedEnrollment":{"@xsi:nil":"true"},"EnrolledViaDEP":{"@xsi:nil":"true"},"TotalPhysicalMemory":"0","AvailablePhysicalMemory":"0","SecurityPatchDate":{"@xsi:nil":"true"},"SystemUpdateReceivedTime":{"@xsi:nil":"true"},"IsSecurityPatchUpdate":{"@xsi:nil":"true"},"DeviceManufacturerId":{"@xsi:nil":"true"},"EasIds":null},{"@xsi:type":"DeviceExtended","Id":{"@xmlns":"","#text":"280"},"Uuid":{"@xmlns":"","#text":"4f94bdaa-a6f2-451a-90f5-c2bc8f5b7ee8"},"Udid":"576ed213d9ff4c7b29448a31a07fda33","SerialNumber":"R58M7321QCV","MacAddress":"C2A65F60749F","Imei":"354651105329918","AssetNumber":"576ed213d9ff4c7b29448a31a07fda33","DeviceFriendlyName":"Territorial01 Android 10.0.0 1QCV 354651105329918","LocationGroupId":{"@uuid":"1676ea8d-0074-44f7-8885-64af3187fb2b","@title":"Seguridad Fisica - Test","#text":"628"},"LocationGroupName":"Seguridad Fisica - Test","User":{"@uuid":"d929b33e-f8eb-47c6-82d0-e6f6a4c145af","@title":"Territorial  01","#text":"48"},"UserName":"Territorial01","DataProtectionStatus":"0","UserEmailAddress":"Territorial01@test.com","Ownership":"C","PlatformId":{"@title":"Android","#text":"5"},"Platform":"Android","ModelId":{"@title":"samsung SM-G975F","#text":"5"},"Model":"samsung SM-G975F","OperatingSystem":"10.0.0","PhoneNumber":null,"LastSeen":"2021-01-13T17:33:59.093","EnrollmentStatus":"Enrolled","ComplianceStatus":"Compliant","CompromisedStatus":"false","LastEnrolledOn":"2020-10-09T17:41:30.71","LastComplianceCheckOn":"0001-01-01T00:00:00","LastCompromisedCheckOn":"2021-01-13T17:33:57.127","IsSupervised": "false",
+                "DeviceMCC": {
+                    "SIMMCC": "722",
+                    "CurrentMCC": "722"
+                },
+                "VirtualMemory": "0",
+                "DeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "AvailableDeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "LastSystemSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsDeviceDNDEnabled": "false",
+                "IsDeviceLocatorEnabled": "false",
+                "IsCloudBackupEnabled": "false",
+                "IsActivationLockEnabled": "false",
+                "IsNetworkTethered": "false",
+                "BatteryLevel": null,
+                "IsRoaming": "false",
+                "LastNetworkLANSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "LastBluetoothSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "SystemIntegrityProtectionEnabled": "false",
+                "ProcessorArchitecture": "0",
+                "UserApprovedEnrollment": {
+                    "@xsi:nil": "true"
+                },
+                "EnrolledViaDEP": {
+                    "@xsi:nil": "true"
+                },
+                "TotalPhysicalMemory": "0",
+                "AvailablePhysicalMemory": "0",
+                "SecurityPatchDate": {
+                    "@xsi:nil": "true"
+                },
+                "SystemUpdateReceivedTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsSecurityPatchUpdate": {
+                    "@xsi:nil": "true"
+                },
+                "DeviceManufacturerId": {
+                    "@xsi:nil": "true"
+                },
+                "EasIds": null
+            },
+            {
+                "@xsi:type": "DeviceExtended",
+                "Id": {
+                    "@xmlns": "",
+                    "#text": "285"
+                },
+                "Uuid": {
+                    "@xmlns": "",
+                    "#text": "c2ed2436-000d-4f2f-82bc-7ef4acc2b021"
+                },
+                "Udid": "159b8e7a3303f5520a651b85030d1997",
+                "SerialNumber": "R28J910P7QJ",
+                "MacAddress": "B4BFF677F9F3",
+                "Imei": "352940091761255",
+                "AssetNumber": "159b8e7a3303f5520a651b85030d1997",
+                "DeviceFriendlyName": "CSGTest Android 6.0.1 P7QJ 352940091761255",
+                "LocationGroupId": {
+                    "@uuid": "5617a5be-7045-4f18-a74f-3992471807c5",
+                    "@title": "Test-exTECO",
+                    "#text": "617"
+                },
+                "LocationGroupName": "Test-exTECO",
+                "User": {
+                    "@uuid": "649efb0f-d908-4f82-8c32-73d04dc918f0",
+                    "@title": "CSG  Test",
+                    "#text": "52"
+                },
+                "UserName": "CSGTest",
+                "DataProtectionStatus": "0",
+                "UserEmailAddress": "csg@test.com",
+                "Ownership": "C",
+                "PlatformId": {
+                    "@title": "Android",
+                    "#text": "5"
+                },
+                "Platform": "Android",
+                "ModelId": {
+                    "@title": "samsung SM-G532M",
+                    "#text": "5"
+                },
+                "Model": "samsung SM-G532M",
+                "OperatingSystem": "6.0.1",
+                "PhoneNumber": null,
+                "LastSeen": "2020-12-30T19:05:59",
+                "EnrollmentStatus": "Enrolled",
+                "ComplianceStatus": "NotAvailable",
+                "CompromisedStatus": "false",
+                "LastEnrolledOn": "2020-12-22T16:38:56.2",
+                "LastComplianceCheckOn": "0001-01-01T00:00:00",
+                "LastCompromisedCheckOn": "2020-12-29T22:56:16.41",
+                "IsSupervised": "false",
+                "DeviceMCC": {
+                    "SIMMCC": "722",
+                    "CurrentMCC": "722"
+                },
+                "VirtualMemory": "0",
+                "DeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "AvailableDeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "LastSystemSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsDeviceDNDEnabled": "false",
+                "IsDeviceLocatorEnabled": "false",
+                "IsCloudBackupEnabled": "false",
+                "IsActivationLockEnabled": "false",
+                "IsNetworkTethered": "false",
+                "BatteryLevel": null,
+                "IsRoaming": "false",
+                "LastNetworkLANSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "LastBluetoothSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "SystemIntegrityProtectionEnabled": "false",
+                "ProcessorArchitecture": "0",
+                "UserApprovedEnrollment": {
+                    "@xsi:nil": "true"
+                },
+                "EnrolledViaDEP": {
+                    "@xsi:nil": "true"
+                },
+                "TotalPhysicalMemory": "0",
+                "AvailablePhysicalMemory": "0",
+                "SecurityPatchDate": {
+                    "@xsi:nil": "true"
+                },
+                "SystemUpdateReceivedTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsSecurityPatchUpdate": {
+                    "@xsi:nil": "true"
+                },
+                "DeviceManufacturerId": {
+                    "@xsi:nil": "true"
+                },
+                "EasIds": null
+            },
+            {
+                "@xsi:type": "DeviceExtended",
+                "Id": {
+                    "@xmlns": "",
+                    "#text": "287"
+                },
+                "Uuid": {
+                    "@xmlns": "",
+                    "#text": "62d350e5-c6b3-4edf-92dd-1d3441112008"
+                },
+                "Udid": "0b47e587bbcd963e9b0b8fb62ed1ac27",
+                "SerialNumber": "RQ300078X1",
+                "MacAddress": "40B837EEBA5B",
+                "Imei": "359604061594681",
+                "AssetNumber": "0b47e587bbcd963e9b0b8fb62ed1ac27",
+                "DeviceFriendlyName": "CSGTest Android 4.4.4 78X1 359604061594681",
+                "LocationGroupId": {
+                    "@uuid": "5617a5be-7045-4f18-a74f-3992471807c5",
+                    "@title": "Test-exTECO",
+                    "#text": "617"
+                },
+                "LocationGroupName": "Test-exTECO",
+                "User": {
+                    "@uuid": "649efb0f-d908-4f82-8c32-73d04dc918f0",
+                    "@title": "CSG  Test",
+                    "#text": "52"
+                },
+                "UserName": "CSGTest",
+                "DataProtectionStatus": "0",
+                "UserEmailAddress": "csg@test.com",
+                "Ownership": "C",
+                "PlatformId": {
+                    "@title": "Android",
+                    "#text": "5"
+                },
+                "Platform": "Android",
+                "ModelId": {
+                    "@title": "Sony E2053",
+                    "#text": "5"
+                },
+                "Model": "Sony E2053",
+                "OperatingSystem": "4.4.4",
+                "PhoneNumber": null,
+                "LastSeen": "2020-12-22T19:41:46.233",
+                "EnrollmentStatus": "Enrolled",
+                "ComplianceStatus": "Compliant",
+                "CompromisedStatus": "false",
+                "LastEnrolledOn": "2020-12-22T19:31:30.377",
+                "LastComplianceCheckOn": "0001-01-01T00:00:00",
+                "LastCompromisedCheckOn": "2020-12-22T19:36:49.497",
+                "IsSupervised": "false",
+                "DeviceMCC": {
+                    "SIMMCC": "0",
+                    "CurrentMCC": "0"
+                },
+                "VirtualMemory": "0",
+                "DeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "AvailableDeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "LastSystemSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsDeviceDNDEnabled": "false",
+                "IsDeviceLocatorEnabled": "false",
+                "IsCloudBackupEnabled": "false",
+                "IsActivationLockEnabled": "false",
+                "IsNetworkTethered": "false",
+                "BatteryLevel": null,
+                "IsRoaming": "false",
+                "LastNetworkLANSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "LastBluetoothSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "SystemIntegrityProtectionEnabled": "false",
+                "ProcessorArchitecture": "0",
+                "UserApprovedEnrollment": {
+                    "@xsi:nil": "true"
+                },
+                "EnrolledViaDEP": {
+                    "@xsi:nil": "true"
+                },
+                "TotalPhysicalMemory": "0",
+                "AvailablePhysicalMemory": "0",
+                "SecurityPatchDate": {
+                    "@xsi:nil": "true"
+                },
+                "SystemUpdateReceivedTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsSecurityPatchUpdate": {
+                    "@xsi:nil": "true"
+                },
+                "DeviceManufacturerId": {
+                    "@xsi:nil": "true"
+                },
+                "EasIds": null
+            },
+            {
+                "@xsi:type": "DeviceExtended",
+                "Id": {
+                    "@xmlns": "",
+                    "#text": "290"
+                },
+                "Uuid": {
+                    "@xmlns": "",
+                    "#text": "5f5e60aa-f1ab-417f-8951-5f95b885227b"
+                },
+                "Udid": "81f1694875b55fe64dd3b6db3c6e2ce1",
+                "SerialNumber": null,
+                "MacAddress": "927F05F013FD",
+                "Imei": null,
+                "AssetNumber": "81f1694875b55fe64dd3b6db3c6e2ce1",
+                "DeviceFriendlyName": "CSGTest Android 10.0.0  ",
+                "LocationGroupId": {
+                    "@uuid": "5617a5be-7045-4f18-a74f-3992471807c5",
+                    "@title": "Test-exTECO",
+                    "#text": "617"
+                },
+                "LocationGroupName": "Test-exTECO",
+                "User": {
+                    "@uuid": "649efb0f-d908-4f82-8c32-73d04dc918f0",
+                    "@title": "CSG  Test",
+                    "#text": "52"
+                },
+                "UserName": "CSGTest",
+                "DataProtectionStatus": "0",
+                "UserEmailAddress": "csg@test.com",
+                "Ownership": "C",
+                "PlatformId": {
+                    "@title": "Android",
+                    "#text": "5"
+                },
+                "Platform": "Android",
+                "ModelId": {
+                    "@title": "Redmi Redmi Note 9 Pro",
+                    "#text": "5"
+                },
+                "Model": "Redmi Redmi Note 9 Pro",
+                "OperatingSystem": "10.0.0",
+                "PhoneNumber": "1125357769",
+                "LastSeen": "2021-02-23T12:43:34.23",
+                "EnrollmentStatus": "Enrolled",
+                "ComplianceStatus": "Compliant",
+                "CompromisedStatus": "false",
+                "LastEnrolledOn": "2020-12-30T15:53:22.357",
+                "LastComplianceCheckOn": "0001-01-01T00:00:00",
+                "LastCompromisedCheckOn": "2021-02-23T12:40:43.047",
+                "IsSupervised": "false",
+                "DeviceMCC": {
+                    "SIMMCC": "722",
+                    "CurrentMCC": "722"
+                },
+                "VirtualMemory": "0",
+                "DeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "AvailableDeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "LastSystemSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsDeviceDNDEnabled": "false",
+                "IsDeviceLocatorEnabled": "false",
+                "IsCloudBackupEnabled": "false",
+                "IsActivationLockEnabled": "false",
+                "IsNetworkTethered": "false",
+                "BatteryLevel": null,
+                "IsRoaming": "false",
+                "LastNetworkLANSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "LastBluetoothSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "SystemIntegrityProtectionEnabled": "false",
+                "ProcessorArchitecture": "0",
+                "UserApprovedEnrollment": {
+                    "@xsi:nil": "true"
+                },
+                "EnrolledViaDEP": {
+                    "@xsi:nil": "true"
+                },
+                "TotalPhysicalMemory": "0",
+                "AvailablePhysicalMemory": "0",
+                "SecurityPatchDate": {
+                    "@xsi:nil": "true"
+                },
+                "SystemUpdateReceivedTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsSecurityPatchUpdate": {
+                    "@xsi:nil": "true"
+                },
+                "DeviceManufacturerId": {
+                    "@xsi:nil": "true"
+                },
+                "EasIds": null
+            },
+            {
+                "@xsi:type": "DeviceExtended",
+                "Id": {
+                    "@xmlns": "",
+                    "#text": "291"
+                },
+                "Uuid": {
+                    "@xmlns": "",
+                    "#text": "780dbab3-0b09-44ed-8d18-bee71faad939"
+                },
+                "Udid": "058420aa5db53204ad5d426145b40387",
+                "SerialNumber": "RGFJA18116020511",
+                "MacAddress": "2054FAFE5779",
+                "Imei": "866225031886514",
+                "AssetNumber": "058420aa5db53204ad5d426145b40387",
+                "DeviceFriendlyName": "CSGTest Android 8.0.0 0511 866225031886514",
+                "LocationGroupId": {
+                    "@uuid": "5617a5be-7045-4f18-a74f-3992471807c5",
+                    "@title": "Test-exTECO",
+                    "#text": "617"
+                },
+                "LocationGroupName": "Test-exTECO",
+                "User": {
+                    "@uuid": "649efb0f-d908-4f82-8c32-73d04dc918f0",
+                    "@title": "CSG  Test",
+                    "#text": "52"
+                },
+                "UserName": "CSGTest",
+                "DataProtectionStatus": "0",
+                "UserEmailAddress": "csg@test.com",
+                "Ownership": "C",
+                "PlatformId": {
+                    "@title": "Android",
+                    "#text": "5"
+                },
+                "Platform": "Android",
+                "ModelId": {
+                    "@title": "HUAWEI RNE-L03",
+                    "#text": "5"
+                },
+                "Model": "HUAWEI RNE-L03",
+                "OperatingSystem": "8.0.0",
+                "PhoneNumber": null,
+                "LastSeen": "2021-01-04T14:03:49.127",
+                "EnrollmentStatus": "Enrolled",
+                "ComplianceStatus": "Compliant",
+                "CompromisedStatus": "false",
+                "LastEnrolledOn": "2020-12-30T19:25:16.57",
+                "LastComplianceCheckOn": "0001-01-01T00:00:00",
+                "LastCompromisedCheckOn": "2021-01-04T14:03:46.577",
+                "IsSupervised": "false",
+                "DeviceMCC": {
+                    "SIMMCC": "0",
+                    "CurrentMCC": "0"
+                },
+                "VirtualMemory": "0",
+                "DeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "AvailableDeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "LastSystemSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsDeviceDNDEnabled": "false",
+                "IsDeviceLocatorEnabled": "false",
+                "IsCloudBackupEnabled": "false",
+                "IsActivationLockEnabled": "false",
+                "IsNetworkTethered": "false",
+                "BatteryLevel": null,
+                "IsRoaming": "false",
+                "LastNetworkLANSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "LastBluetoothSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "SystemIntegrityProtectionEnabled": "false",
+                "ProcessorArchitecture": "0",
+                "UserApprovedEnrollment": {
+                    "@xsi:nil": "true"
+                },
+                "EnrolledViaDEP": {
+                    "@xsi:nil": "true"
+                },
+                "TotalPhysicalMemory": "0",
+                "AvailablePhysicalMemory": "0",
+                "SecurityPatchDate": {
+                    "@xsi:nil": "true"
+                },
+                "SystemUpdateReceivedTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsSecurityPatchUpdate": {
+                    "@xsi:nil": "true"
+                },
+                "DeviceManufacturerId": {
+                    "@xsi:nil": "true"
+                },
+                "EasIds": null
+            },
+            {
+                "@xsi:type": "DeviceExtended",
+                "Id": {
+                    "@xmlns": "",
+                    "#text": "293"
+                },
+                "Uuid": {
+                    "@xmlns": "",
+                    "#text": "1c6f6571-549c-4cc9-842f-e791cfc2944d"
+                },
+                "Udid": "41773c772e4b81ed78f169cd553b587c",
+                "SerialNumber": "R28K40TFWQY",
+                "MacAddress": "306A858A8FA0",
+                "Imei": "355045090508785",
+                "AssetNumber": "41773c772e4b81ed78f169cd553b587c",
+                "DeviceFriendlyName": "u582380 Android 9.0.0 FWQY 355045090508785",
+                "LocationGroupId": {
+                    "@uuid": "d412edec-785a-463b-816a-1c26bdb93561",
+                    "@title": "Grupo de dispositivos para técnicos de calle AR",
+                    "#text": "575"
+                },
+                "LocationGroupName": "Grupo de dispositivos para técnicos de calle AR",
+                "User": {
+                    "@uuid": "f9dcd3e5-ba6f-4520-8ab2-9e8f3a5c93e7",
+                    "@title": "Martin  Grippo",
+                    "#text": "35"
+                },
+                "UserName": "u582380",
+                "DataProtectionStatus": "0",
+                "UserEmailAddress": "mgrippopalladino@teco.com.ar",
+                "Ownership": "C",
+                "PlatformId": {
+                    "@title": "Android",
+                    "#text": "5"
+                },
+                "Platform": "Android",
+                "ModelId": {
+                    "@title": "samsung SM-A530F",
+                    "#text": "5"
+                },
+                "Model": "samsung SM-A530F",
+                "OperatingSystem": "9.0.0",
+                "PhoneNumber": null,
+                "LastSeen": "2021-04-23T19:55:14.223",
+                "EnrollmentStatus": "Enrolled",
+                "ComplianceStatus": "Compliant",
+                "CompromisedStatus": "false",
+                "LastEnrolledOn": "2021-03-30T20:20:10.67",
+                "LastComplianceCheckOn": "0001-01-01T00:00:00",
+                "LastCompromisedCheckOn": "2021-04-12T14:48:34.617",
+                "IsSupervised": "false",
+                "DeviceMCC": {
+                    "SIMMCC": "722",
+                    "CurrentMCC": "722"
+                },
+                "VirtualMemory": "0",
+                "DeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "AvailableDeviceCapacity": {
+                    "@xsi:nil": "true"
+                },
+                "LastSystemSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsDeviceDNDEnabled": "false",
+                "IsDeviceLocatorEnabled": "false",
+                "IsCloudBackupEnabled": "false",
+                "IsActivationLockEnabled": "false",
+                "IsNetworkTethered": "false",
+                "BatteryLevel": null,
+                "IsRoaming": "false",
+                "LastNetworkLANSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "LastBluetoothSampleTime": {
+                    "@xsi:nil": "true"
+                },
+                "SystemIntegrityProtectionEnabled": "false",
+                "ProcessorArchitecture": "0",
+                "UserApprovedEnrollment": {
+                    "@xsi:nil": "true"
+                },
+                "EnrolledViaDEP": {
+                    "@xsi:nil": "true"
+                },
+                "TotalPhysicalMemory": "0",
+                "AvailablePhysicalMemory": "0",
+                "SecurityPatchDate": {
+                    "@xsi:nil": "true"
+                },
+                "SystemUpdateReceivedTime": {
+                    "@xsi:nil": "true"
+                },
+                "IsSecurityPatchUpdate": {
+                    "@xsi:nil": "true"
+                },
+                "DeviceManufacturerId": {
+                    "@xsi:nil": "true"
+                },
+                "EasIds": null
+            }
+        ]
+    }
+}

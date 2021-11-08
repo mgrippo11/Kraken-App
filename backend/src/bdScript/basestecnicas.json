@@ -1,0 +1,482 @@
+[
+    {
+      "SmartGroupID": 267,
+      "BaseName": "Alcorta / Totoras / Galvez / v Const",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 84,
+      "BaseName": "Almagro",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 271,
+      "BaseName": "Rufino / Casilda / Venado Tuerto / Firmat",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 428,
+      "BaseName": "Alta Gracia",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 345,
+      "BaseName": "Arrecifes-Ramallo-Baradero-San Nicolas",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 397,
+      "BaseName": "Avellaneda",
+      "Region": "AMBA"
+    },
+    {
+      "SmartGroupID": 123,
+      "BaseName": "Bahía Blanca",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 191,
+      "BaseName": "Balcarce",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 180,
+      "BaseName": "Belgrano",
+      "Region": "AMBA"
+    },
+    {
+      "SmartGroupID": 97,
+      "BaseName": "Bell Ville",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 103,
+      "BaseName": "Boedo",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 362,
+      "BaseName": "Bolivar - Pehuajo",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 125,
+      "BaseName": "Boulogne",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 113,
+      "BaseName": "Burzaco",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 429,
+      "BaseName": "Caballito",
+      "Region": "AMBA"
+    },
+    {
+      "SmartGroupID": 81,
+      "BaseName": "Campana",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 430,
+      "BaseName": "Canals",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 274,
+      "BaseName": "Carlos Paz / Cosquin / J Maria / La Falda",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 350,
+      "BaseName": "Carrillo (Inspecciones)",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 431,
+      "BaseName": "Catamarca",
+      "Region": "NOA"
+    },
+    {
+      "SmartGroupID": 266,
+      "BaseName": "Chajarí / Gualeguaychu / Concepcion del Uruguay",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 189,
+      "BaseName": "Chascomus - Dolores- S.M del Monte",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 364,
+      "BaseName": "Cañuelas–Dolores–GralBelgrano–Lobos–Ranchos-Saladillo-Monte-Navarro",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 344,
+      "BaseName": "Chivilcoy-Junin-Pergamino-Villegas",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 423,
+      "BaseName": "Cipolletti",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 122,
+      "BaseName": "Colegiales",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 221,
+      "BaseName": "Cordoba",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 100,
+      "BaseName": "Corrientes",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 93,
+      "BaseName": "Devoto",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 265,
+      "BaseName": "Entre Rios",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 432,
+      "BaseName": "Escobar",
+      "Region": "AMBA"
+    },
+    {
+      "SmartGroupID": 96,
+      "BaseName": "Formosa",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 263,
+      "BaseName": "Gualeguay",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 133,
+      "BaseName": "Gualeguaychu",
+      "Region": "LITO"
+    },
+    {
+      "SmartGroupID": 288,
+      "BaseName": "Hub y Energia",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 433,
+      "BaseName": "Inriville",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 94,
+      "BaseName": "Ituzaingo",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 434,
+      "BaseName": "Jujuy",
+      "Region": "NOA"
+    },
+    {
+      "SmartGroupID": 435,
+      "BaseName": "La Carlota",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 128,
+      "BaseName": "La Plata",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 182,
+      "BaseName": "Laboulaye",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 264,
+      "BaseName": "Laguna Paiva",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 108,
+      "BaseName": "Lanus",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 436,
+      "BaseName": "La Rioja",
+      "Region": "NOA"
+    },
+    {
+      "SmartGroupID": 424,
+      "BaseName": "Lujan",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 107,
+      "BaseName": "Mar del Plata",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 183,
+      "BaseName": "Marcos Juarez",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 437,
+      "BaseName": "Mendoza",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 171,
+      "BaseName": "Microcentro",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 192,
+      "BaseName": "Miramar",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 82,
+      "BaseName": "Monte Grande",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 118,
+      "BaseName": "Munro",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 425,
+      "BaseName": "Neuquen / Zapala / Plottier / Centenario",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 270,
+      "BaseName": "Oberá",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 112,
+      "BaseName": "Olavarria",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 165,
+      "BaseName": "Palermo",
+      "Region": "AMBA"
+    },
+    {
+      "SmartGroupID": 396,
+      "BaseName": "Palomar",
+      "Region": "AMBA"
+    },
+    {
+      "SmartGroupID": 114,
+      "BaseName": "Parana",
+      "Region": "LITO"
+    },
+    {
+      "SmartGroupID": 110,
+      "BaseName": "Posadas",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 120,
+      "BaseName": "Quilmes",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 126,
+      "BaseName": "Rafaela",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 153,
+      "BaseName": "Ramos Mejia",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 179,
+      "BaseName": "Recoleta",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 131,
+      "BaseName": "Resistencia",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 104,
+      "BaseName": "Rio Cuarto",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 438,
+      "BaseName": "Rio Segundo",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 88,
+      "BaseName": "Rosario",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 158,
+      "BaseName": "Rosario - Eventos",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 101,
+      "BaseName": "Saavedra",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 95,
+      "BaseName": "Salta",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 105,
+      "BaseName": "San Francisco",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 426,
+      "BaseName": "San Francisco / Villa Maria",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 129,
+      "BaseName": "San Martin",
+      "Region": "AMBA"
+    },
+    {
+      "SmartGroupID": 87,
+      "BaseName": "San Nicolas",
+      "Region": "PBA"
+    },
+    {
+      "SmartGroupID": 439,
+      "BaseName": "San Pedro",
+      "Region": "PBA"
+    },
+    {
+      "SmartGroupID": 98,
+      "BaseName": "San Telmo",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 89,
+      "BaseName": "Santa Fe",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 440,
+      "BaseName": "Santa Rosa Calamuchita",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 441,
+      "BaseName": "Santiago del Estero",
+      "Region": "NOA"
+    },
+    {
+      "SmartGroupID": 272,
+      "BaseName": "Santo Tome / A Seco / Mercedes / M Casero / P Libr",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 195,
+      "BaseName": "Tandil",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 395,
+      "BaseName": "Tigre",
+      "Region": "AMBA"
+    },
+    {
+      "SmartGroupID": 427,
+      "BaseName": "Tres Arroyos / Gonzalez Chavez / Dorrego",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 442,
+      "BaseName": "Tucuman",
+      "Region": "NOA"
+    },
+    {
+      "SmartGroupID": 249,
+      "BaseName": "UMSA",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 400,
+      "BaseName": "Venado Tuerto",
+      "Region": "LITO"
+    },
+    {
+      "SmartGroupID": 443,
+      "BaseName": "Vicuña Mackenna",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 444,
+      "BaseName": "Villa Allende",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 262,
+      "BaseName": "Villa Angela",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 127,
+      "BaseName": "Villa Dolores",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 273,
+      "BaseName": "Villa Dolores / Bell Ville / Rio Tercero",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 83,
+      "BaseName": "Villa Maria",
+      "Region": "MEDI"
+    },
+    {
+      "SmartGroupID": 138,
+      "BaseName": "Zarate",
+      "Region": "PBA"
+    },
+    {
+      "SmartGroupID": 241,
+      "BaseName": "Bases Especiales",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 247,
+      "BaseName": "Bases Especiales Oeste",
+      "Region": ""
+    },
+    {
+      "SmartGroupID": 291,
+      "BaseName": "Bases FiberCorp",
+      "Region": ""
+    }
+   ]
