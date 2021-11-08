@@ -31,8 +31,8 @@ const Geolocalizacion = (props) => {
             method: 'GET',
             headers: {
                 'Content-Type': 'application/json',
-                "aw-tenant-code": "18o2oIEbqqkCgjKlxDTB2pJkLskm9kYg3f5/YjzGQd4=",
-                "Authorization": "Basic QVBJX1Jlc3Q6QEFwaTIwMjAh"
+                "aw-tenant-code": "#####",
+                "Authorization": "Basic #####"
             }
         }
         //console.log(url)
