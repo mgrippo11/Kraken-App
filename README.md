@@ -1,6 +1,6 @@
 # Kraken-App
 
-Proyecto personal de WebApp de gestion de dispositivos moviles utilizando las APIs del MDM Airwatch de VMWare (https://testdrive.awmdm.com/api/help/#!/apis).
+Proyecto personal en proceso de WebApp de gestion de dispositivos moviles utilizando las APIs del MDM Airwatch de VMWare (https://testdrive.awmdm.com/api/help/#!/apis).
 NodeJS, Express, Mongo, Babel, React
 
 Funciones:
